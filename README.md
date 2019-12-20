@@ -9,3 +9,5 @@ I wanted to take a look at how the community has grown since it was first create
 ![./IsTodayFridayThe13thComments.png](https://raw.githubusercontent.com/francislin96/IsTodayFridayThe13th/master/IsTodayFridayThe13thComments.png)
 
 ![./IsTodayFridayThe13thSubscribers.png](https://raw.githubusercontent.com/francislin96/IsTodayFridayThe13th/master/IsTodayFridayThe13thSubscribers.png)
+
+\* Last updated: Dec 20, 2019
